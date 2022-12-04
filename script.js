@@ -6,3 +6,10 @@ window.addEventListener('keydown', (event) => {
   ${event.key === ' ' ? 'Space' : event.key} 
   <small>event.key</small>
 </div>
+
+<div class="key">
+  ${event.keyCode}
+  <small>event.keyCode</small>
+</div>
+  `
+})
