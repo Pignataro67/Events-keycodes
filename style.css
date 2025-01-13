@@ -58,6 +58,6 @@ body {
 .label {
   position: relative;
   background-color: #d0d0d0;
-  border-radius: 50px;
+  border-radius: 45px;
   cursor: pointer;
 }
