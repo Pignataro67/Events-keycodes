@@ -33,7 +33,7 @@ body {
   cursor: pointer;
   display: inline-block;
   margin: 0 15px 0;
-  width: 75px;
+  width: px;
   height: 35px;
 }
 
@@ -60,4 +60,8 @@ body {
   background-color: #d0d0d0;
   border-radius: 45px;
   cursor: pointer;
+}
+
+.toggle:checked + .label .ball {
+  animation: slideOn 0.3s linear forwards;
 }
