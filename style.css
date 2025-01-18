@@ -45,6 +45,11 @@ body {
   -webkit-transition: all 700ms ease-in;
 }
 
+.panel.active {
+  flex: 5;
+}
+
+.panel.active h3 {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.4s;
 }
