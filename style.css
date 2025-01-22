@@ -21,4 +21,6 @@ button {
   color: #fff;
   border: 1px purple solid;
   font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
