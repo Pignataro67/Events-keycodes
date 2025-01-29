@@ -24,4 +24,5 @@ button {
   text-transform: uppercase;
   letter-spacing: 2px;
   padding: 20px 30px;
+  overflow: hidden;
 }
