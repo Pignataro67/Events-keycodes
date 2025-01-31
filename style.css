@@ -33,4 +33,6 @@ button:focus {
 
 button .circle {
   position: absolute;
+  background-color: #fff;
+  width: 100px;
 }
