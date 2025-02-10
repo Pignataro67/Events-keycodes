@@ -64,4 +64,5 @@ h4 {
 
 .nums span {
   position: absolute;
+  top: 50%;
 }
