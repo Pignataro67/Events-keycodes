@@ -82,4 +82,4 @@ h4 {
 @keyframes goIn {
   0% {
     transform: translate(-50%, -50%) rotate(120deg);
-}}
+  }
