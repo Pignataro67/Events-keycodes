@@ -101,3 +101,7 @@ h4 {
   0% {
     transform: translate(-50%, -50%) rotate(0deg);
   }
+
+  60% {
+    transform: translate(-50%, -50%) rotate(20deg);
+  }
