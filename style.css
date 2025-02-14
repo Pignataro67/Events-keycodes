@@ -127,4 +127,5 @@ h4 {
   cursor: pointer;
   display: inline-block;
   position: relative;
+  transition: 0.3s;
 }
