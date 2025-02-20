@@ -23,3 +23,7 @@ html.dark {
   background-color: #111;
   color: var(--primary-color);
 }
+
+body {
+  font-family: 'Heebo', sans-serif;
+}
