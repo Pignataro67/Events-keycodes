@@ -33,3 +33,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.needle.minute {
+  transform: translate(-50%, -100%) rotate(0deg);
+}
